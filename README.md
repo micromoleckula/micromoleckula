@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">I`m junior front-end developer. I learnig (start june 2023)</h3>
-
-- 🌱 I’m currently learning **JS, Html,Css, React + Vite and more**
 
 - 📫 How to reach me **delovoy.dmitrik@gmail.com**
 
