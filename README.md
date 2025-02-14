@@ -13,4 +13,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=micromoleckula&show_icons=true)  
 
-
+![CodeWars stats](https://www.codewars.com/users/mrkolbaska/badges/large)
